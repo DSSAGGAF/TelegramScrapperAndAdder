@@ -1,0 +1,49 @@
+Channel(id=1246970185, title='sorry', photo=ChatPhotoEmpty(), date=datetime.datetime(2021, 5, 11, 17, 57, 29, tzinfo=datetime.timezone.utc), version=0, creator=True, left=False, broadcast=False, verified=False, megagroup=True, restricted=False, signatures=False, min=False, scam=False, has_link=False, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=-9213236852134788441, username='myZyK8YMCi', restriction_reason=[], admin_rights=ChatAdminRights(change_info=True, post_messages=True, edit_messages=True, delete_messages=True, ban_users=True, invite_users=True, pin_messages=True, add_admins=True, anonymous=False, manage_call=True, other=True), banned_rights=None, default_banned_rights=ChatBannedRights(until_date=datetime.datetime(2038, 1, 19, 3, 14, 7, tzinfo=datetime.timezone.utc), view_messages=False, send_messages=False, send_media=False, send_stickers=False, send_gifs=False, send_games=False, send_inline=False, embed_links=False, send_polls=False, change_info=True, invite_users=False, pin_messages=True), participants_count=2)
+
+
+
+
+Chat(id=596410843, title='sorry', photo=ChatPhotoEmpty(), participants_count=0, date=datetime.datetime(2021, 5, 11, 17, 57, tzinfo=datetime.timezone.utc), version=1, creator=True, kicked=False, left=False, deactivated=True, call_active=False, call_not_empty=False, migrated_to=InputChannel(channel_id=1246970185, access_hash=-9213236852134788441), admin_rights=None, default_banned_rights=None)
+
+
+
+
+Channel(id=1311204434, title='test', photo=ChatPhotoEmpty(), date=datetime.datetime(2021, 5, 12, 15, 28, 15, tzinfo=datetime.timezone.utc), version=0, creator=True, left=False, broadcast=True, verified=False, megagroup=False, restricted=False, signatures=False, min=False, scam=False, has_link=False, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=-7931361245498063077, username='test11123213', restriction_reason=[], admin_rights=ChatAdminRights(change_info=True, post_messages=True, edit_messages=True, delete_messages=True, ban_users=True, invite_users=True, pin_messages=True, add_admins=True, anonymous=False, manage_call=True, other=True), banned_rights=None, default_banned_rights=None, participants_count=12)
+
+
+
+
+Channel(id=1189263902, title='Sorry testing', photo=ChatPhotoEmpty(), date=datetime.datetime(2021, 5, 11, 2, 50, 58, tzinfo=datetime.timezone.utc), version=0, creator=True, left=False, broadcast=False, verified=False, megagroup=True, restricted=False, signatures=False, min=False, scam=False, has_link=False, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=-7613136027107167725, username='testing15487', restriction_reason=[], admin_rights=ChatAdminRights(change_info=True, post_messages=True, edit_messages=True, delete_messages=True, ban_users=True, invite_users=True, pin_messages=True, add_admins=True, anonymous=False, manage_call=True, other=True), banned_rights=None, default_banned_rights=ChatBannedRights(until_date=datetime.datetime(2038, 1, 19, 3, 14, 7, tzinfo=datetime.timezone.utc), view_messages=False, send_messages=False, send_media=False, send_stickers=False, send_gifs=False, send_games=False, send_inline=False, embed_links=False, send_polls=False, change_info=True, invite_users=False, pin_messages=True), participants_count=29)
+
+
+
+
+Chat(id=567787560, title='Sorry testing', photo=ChatPhotoEmpty(), participants_count=0, date=datetime.datetime(2021, 5, 11, 2, 50, 22, tzinfo=datetime.timezone.utc), version=1, creator=True, kicked=False, left=False, deactivated=True, call_active=False, call_not_empty=False, migrated_to=InputChannel(channel_id=1189263902, access_hash=-7613136027107167725), admin_rights=None, default_banned_rights=None)
+
+
+
+
+Channel(id=1192608250, title='👍1⃣FABERLIC_TOSHKENT1⃣Xurshida', photo=ChatPhoto(photo_small=FileLocationToBeDeprecated(volume_id=200299700315,
+ local_id=101723), photo_big=FileLocationToBeDeprecated(volume_id=200299700315, local_id=101725), dc_id=2, has_video=False), date=datetime.datetime(2021, 5, 11, 2, 47, 49, tzinfo=datetime.timezone.utc), version=0, creator=False, left=False, broadcast=False, verified=False, megagroup=True, restricted=False, signatures=False, min=False, scam=False, has_link=True, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=2915531541894170297, username='faberlic_chegirma', restriction_reason=[], admin_rights=None, banned_rights=None, default_banned_rights=ChatBannedRights(until_date=datetime.datetime(2038, 1, 19, 3, 14, 7, tzinfo=datetime.timezone.utc), view_messages=False, send_messages=True, send_media=True, send_stickers=True, send_gifs=True, send_games=True, send_inline=True, embed_links=True, send_polls=True, change_info=True, invite_users=False, pin_messages=True), participants_count=3604)
+
+
+
+
+Channel(id=1262065780, title='VIPchegg', photo=ChatPhotoEmpty(), date=datetime.datetime(2021, 4, 7, 1, 31, 53, tzinfo=datetime.timezone.utc), 
+version=0, creator=False, left=False, broadcast=True, verified=False, megagroup=False, restricted=False, signatures=False, min=False, scam=False, has_link=False, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=1681322191462665842, username='vipchegg', restriction_reason=[], admin_rights=None, banned_rights=None, default_banned_rights=None, participants_count=1243)
+
+
+
+
+Channel(id=1253671401, title='Chegg Bot', photo=ChatPhotoEmpty(), date=datetime.datetime(2021, 4, 7, 1, 35, 13, tzinfo=datetime.timezone.utc), version=0, creator=False, left=False, broadcast=True, verified=False, megagroup=False, restricted=False, signatures=False, min=False, scam=False, has_link=False, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=7729793237280245310, username='cheggbotsfs', restriction_reason=[], admin_rights=None, banned_rights=None, default_banned_rights=None, participants_count=17)
+
+
+
+
+Channel(id=1258819289, title='CourseHero Unlocks', photo=ChatPhoto(photo_small=FileLocationToBeDeprecated(volume_id=465039680, local_id=539441), photo_big=FileLocationToBeDeprecated(volume_id=465039680, local_id=539443), dc_id=4, has_video=False), date=datetime.datetime(2021, 4, 7, 0, 38, tzinfo=datetime.timezone.utc), version=0, creator=False, left=False, broadcast=True, verified=False, megagroup=False, restricted=False, 
+signatures=False, min=False, scam=False, has_link=True, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=-8406629248508944689, username='course_hero', restriction_reason=[], admin_rights=None, banned_rights=None, default_banned_rights=None, participants_count=3614)
+
+
+
+
+Channel(id=1398341740, title='CourseHero Unlocks Chat', photo=ChatPhoto(photo_small=FileLocationToBeDeprecated(volume_id=400101900025, local_id=116451), photo_big=FileLocationToBeDeprecated(volume_id=400101900025, local_id=116453), dc_id=4, has_video=False), date=datetime.datetime(2020, 11, 3, 13, 23, 3, tzinfo=datetime.timezone.utc), version=0, creator=False, left=True, broadcast=False, verified=False, megagroup=True, restricted=False, signatures=False, min=False, scam=False, has_link=True, has_geo=False, slowmode_enabled=False, call_active=False, call_not_empty=False, fake=False, gigagroup=False, access_hash=-469332735980644800, username='courseherohelp', restriction_reason=[], admin_rights=None, banned_rights=None, default_banned_rights=ChatBannedRights(until_date=datetime.datetime(2038, 1, 19, 3, 14, 7, tzinfo=datetime.timezone.utc), view_messages=False, send_messages=False, send_media=False, send_stickers=False, send_gifs=False, send_games=False, send_inline=False, embed_links=False, send_polls=False, change_info=True, invite_users=False, pin_messages=True), participants_count=None)
